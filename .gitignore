@@ -1,2 +1,5 @@
 *.class
 *.log
+/spark2.4.5/.idea
+/spark2.4.5/spark2.4.5-app.iml
+/spark2.4.5/target/classes/META-INF
